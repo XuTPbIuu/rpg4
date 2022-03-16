@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPG33</string>
+    <string name="app_in_name">Вроде Бы RPG</string>
+    <string name="app_in_after">Register App</string>
+    <string name="text_bottom">Войдите в свою учетную запись</string>
+    <string name="btnSing">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+</resources>

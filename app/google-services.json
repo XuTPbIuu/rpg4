@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "222497923972",
+    "firebase_url": "https://zavrinrpg33-default-rtdb.firebaseio.com",
+    "project_id": "zavrinrpg33",
+    "storage_bucket": "zavrinrpg33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222497923972:android:c743410f7086bad18e73d1",
+        "android_client_info": {
+          "package_name": "com.zavrin.rpg33"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222497923972-8hd11h99fvgj566l7s4vs7fd3ce6dp6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY5zpqCviydsiiKUEQcdZzhgBiTfMFpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222497923972-8hd11h99fvgj566l7s4vs7fd3ce6dp6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222497923972:android:04a5ce2d4745f24f8e73d1",
+        "android_client_info": {
+          "package_name": "com.zavrin.rpg4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222497923972-8hd11h99fvgj566l7s4vs7fd3ce6dp6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY5zpqCviydsiiKUEQcdZzhgBiTfMFpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222497923972-8hd11h99fvgj566l7s4vs7fd3ce6dp6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
